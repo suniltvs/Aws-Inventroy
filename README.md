@@ -12,7 +12,7 @@ account = ['Production','Development','Shared']
 
 
 Update the AWS Credentils as well with the specified the accounts in credentials file
-
+```
 [default]
 aws_access_key_id = 
 aws_secret_access_key = 
@@ -28,3 +28,4 @@ aws_secret_access_key =
 [Production]
 aws_access_key_id =  
 aws_secret_access_key = 
+```
